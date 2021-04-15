@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+
+.form{
+  background-color: antiquewhite;
+  padding: 30px;
+  border-radius: 5px;
+  border-color: rgb(6, 17, 53);
+}
+
+input{
+  background-color: rgb(247, 210, 146);
+  border-radius: 5px;
+  border-color: rgb(6, 17, 53);
+  color:rgb(6, 17, 53);
+  text-align: center;
+  height:40px;
+  width:90px;
+  margin: 2px;
+}
+
+button{
+  background-color: rgb(247, 210, 146);
+  border-radius: 5px;
+  border-color: rgb(6, 17, 53);
+}
+
+select{
+  background-color: rgb(247, 210, 146);
+  border-radius: 5px;
+  border-color: rgb(6, 17, 53);
+  text-align: center;
+  height:40px;
+  width:90px;
+
+}
+
+option{
+  text-align: center;
+
+}
+
+p{
+  color: rgb(6, 17, 53);
+}
